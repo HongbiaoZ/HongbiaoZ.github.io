@@ -1,0 +1,36 @@
+---
+layout: archive
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+__RESEARCH INTERESTS__
+* Robot Navigation, Autonomous Exploration, Source Localization
+
+__EDUCATION__
+* B.S. in Vehicle Engineering, Harbin Institute of Technology(Weihai), 2015
+* M.S. in Vehicle Engineering, Harbin Institute of Technology(Weihai), 2017
+* Ph.D in Robotics, Harbin Institute of Technology, 2022 (expected)
+* Visiting Scholar in Robotics, Robotics Institute, Carnegie Mellon University, 2019 - 2021
+  
+__SKILLS__
+* Linux(Ubuntu)
+* ROS(Robot Operating System)
+* C++
+
+__PUBLICATIONS__
+* Zhu H, Wang Y, Du C, Zhang Q, Wang W. A novel odor source localization system based on particle filtering and information entropy. Robotics and Autonomous Systems. 2020 Oct 1;132:103619. [pdf](http://hongbiaoz.github.io/files/paper1.pdf)
+* Gao W, Wang W, Zhu H, Huang G, Wu D, Du Z. Robust radiation sources localization based on the peak suppressed particle filter for mixed multi-modal environments. Sensors. 2018 Nov;18(11):3784. [pdf](http://hongbiaoz.github.io/files/paper2.pdf)
+* Wang W, Gao W, Zhu H, Wu D, Huang G, Du Z. Improved Dynamic Optimization of PSPF-Based Sources Estimation in Local Multi-Modal Radiation Field. IEEE Access. 2019 Oct 22;7:153885-99. [pdf](http://hongbiaoz.github.io/files/paper3.pdf)
+* Wang Y, Zhu H, Wang W. Octree-Based Repetitive Pose Detection of Large-Scale Cyclic Environments. In2018 3rd International Conference on Robotics and Automation Engineering (ICRAE) 2018 Nov 17 (pp. 60-64). IEEE. [pdf](http://hongbiaoz.github.io/files/paper4.pdf)
+
+__PROJECTS__
+* __DARPA Subterranean Challenge - Member of Team Explorer (CMU&OSU) November 2019 - Present__
+  * Developed behavior tree for ground robots to make high level decision automatically
+  * Developed new RRT-based road map for ground robots to search path to global goals
+  * Optimized local planner and terrain analysis algorithm to make the ground robots adaptable to different terrain
+
+__Service__
+* Reviewer:   Journal of Field Robotics

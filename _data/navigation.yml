@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about.html
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Codes"
+    url: /markdown/
