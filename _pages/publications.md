@@ -18,10 +18,10 @@ __Research__
 * A novel odor source localization system based on particle filtering and information entropy -- Robotics Autonomous System, 2020\
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yYFP3qDzkvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* TARE: A Hierarchical Framework for Efficiently Exploration
+* TARE: A Hierarchical Framework for Efficiently Exploration -- Robotics: Science and Systems (RSS 2021)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/kbKSOGPYZww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Exploring Large and Complex Environments Fast and Efficiently
+* Exploring Large and Complex Environments Fast and Efficiently -- International Conference on Robotics and Automation (ICRA 2021)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Jz5MCcLLyh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __Projects__
