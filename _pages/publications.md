@@ -12,7 +12,7 @@ __Carrer Profile__
 * My  recent  research  is  focusing  on  autonomous  exploration  and  source  localization.
 
 __Research__
-* DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion\
+* DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion -- International Conference on Intelligent Robots and Systems (IROS 2021)\
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lQqFivWDI3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * A novel odor source localization system based on particle filtering and information entropy -- Robotics Autonomous System, 2020\
