@@ -23,6 +23,7 @@ __SKILLS__
 
 __PUBLICATIONS__
 * Zhu H, Wang Y, Du C, Zhang Q, Wang W. A novel odor source localization system based on particle filtering and information entropy. Robotics and Autonomous Systems. 2020 Oct 1;132:103619. [pdf](http://hongbiaoz.github.io/files/paper1.pdf)
+* H. Zhu, C. Cao, S. Scherer, J. Zhang, and W. Wang. DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion. IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS). Prague, Czech, Sept. 2021. [pdf](http://hongbiaoz.github.io/files/paper7.pdf)
 * Chao Cao, Hongbiao Zhu and Howie Choset and Ji Zhang. TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments. Proceedings of Robotics: Science and Systems (RSS), 2021. [pdf](http://hongbiaoz.github.io/files/paper5.pdf)
 * Chao Cao, Hongbiao Zhu and Howie Choset and Ji Zhang. Exploring Large and Complex Environments Fast and Efficiently. Proceedings of (ICRA) International Conference on Robotics and Automation, 2021. [pdf](http://hongbiaoz.github.io/files/paper6.pdf)
 * Gao W, Wang W, Zhu H, Huang G, Wu D, Du Z. Robust radiation sources localization based on the peak suppressed particle filter for mixed multi-modal environments. Sensors. 2018 Nov;18(11):3784. [pdf](http://hongbiaoz.github.io/files/paper2.pdf)
