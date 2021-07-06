@@ -22,7 +22,7 @@ __SKILLS__
 * Python
 
 __PUBLICATIONS__
-* _Zhu H_, Wang Y, Du C, Zhang Q, Wang W. A novel odor source localization system based on particle filtering and information entropy. Robotics and Autonomous Systems. 2020 Oct 1;132:103619. [pdf](http://hongbiaoz.github.io/files/paper1.pdf)
+* **Zhu H_**, Wang Y, Du C, Zhang Q, Wang W. A novel odor source localization system based on particle filtering and information entropy. Robotics and Autonomous Systems. 2020 Oct 1;132:103619. [pdf](http://hongbiaoz.github.io/files/paper1.pdf)
 * _H. Zhu_, C. Cao, S. Scherer, J. Zhang, and W. Wang. DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion. IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS). Prague, Czech, Sept. 2021. [pdf](http://hongbiaoz.github.io/files/paper7.pdf)
 * _H. Zhu_, Y. Liu, W. Wang, Z. Obstacle negotiation analysis of track-legged robot based on terramechanics. Industrial Robot. 2021. [pdf](http://hongbiaoz.github.io/files/paper9.pdf)
 * Chao Cao, _Hongbiao Zhu_ and Howie Choset and Ji Zhang. TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments. Proceedings of Robotics: Science and Systems (RSS), 2021. [pdf](http://hongbiaoz.github.io/files/paper5.pdf)
