@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 __Carrer Profile__
-* I am a PHD student at [Robotics Institute](http://robot.hit.edu.cn/), [Harbin Institute of Technology(HIT)](http://en.hit.edu.cn/) advised by [Weidong Wang](http://homepage.hit.edu.cn/wangweidong). Now I am studying with [Ji Zhang](https://frc.ri.cmu.edu/~zhangji/) in [Robotics Institute]((https://www.ri.cmu.edu/)), [Carnegie Mellon University](https://www.cmu.edu/) as a visiting scholar.
+* I am a PHD student at [Robotics Institute](http://robot.hit.edu.cn/), [Harbin Institute of Technology(HIT)](http://en.hit.edu.cn/) advised by [Weidong Wang](http://homepage.hit.edu.cn/wangweidong). Now I am studying with [Ji Zhang](https://frc.ri.cmu.edu/~zhangji/) in [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/) as a visiting scholar.
 * My  recent  research  is  focusing  on  autonomous  exploration  and  source  localization.
 
 __Research__
