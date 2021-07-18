@@ -33,11 +33,22 @@ __PUBLICATIONS__
 * Wang Y, **Zhu H**, Wang W. Octree-Based Repetitive Pose Detection of Large-Scale Cyclic Environments. In2018 3rd International Conference on Robotics and Automation Engineering (ICRAE) 2018 Nov 17 (pp. 60-64). IEEE. [pdf](http://hongbiaoz.github.io/files/paper4.pdf)
 
 __PROJECTS__
-* __DARPA Subterranean Challenge -  Team Explorer (CMU&OSU) November 2019 - Present__
+* __DARPA Subterranean Challenge -  Team Explorer (CMU&OSU)__  November 2019 - Present
   * Ground Robot Autonomous Subsystem Leader
   * Maintaining a full autonomous stack of ground robots, including local planners, terrain analysis, etc.
   * Developed RRT-based road maps for global route planning $ \& $ recovery behavior for all abnormal cases
   * Integrated all submodules to the ground robot system and implemented high-level decision making with behavior-tree
+
+* __Open-Source Project for Autonomous Robots -  [cmu-exploration](http://www.cmu-exploration.com)__  Oct 20 - Present
+  * Collaborated on development of several exploration algorithms, including DSVP, TARE, etc.
+  * Cooperated in developing a simulation environment with full stack navigation algorithm
+  * Built visualization tools to assist the development of high-level algorithms
+  * Constructed typical simulation environments for ground robots
+
+* __National Major Project from Ministry of Environmental Protection, China__  July 17 - Aug 18
+  * Collaborated in developing a ground robot with a robotic arm to search for and grasp radioactive sources
+  * Designed the software system of console, including the interface, control logic and socket communication
+  * Integrated open-source navigation and trajectory planning algorithms into the robot system
 
 __Service__
 * Reviewer: Journal of Field Robotics
