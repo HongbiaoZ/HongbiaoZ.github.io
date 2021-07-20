@@ -35,9 +35,9 @@ __PUBLICATIONS__
 __PROJECTS__
 * __DARPA Subterranean Challenge -  Team Explorer (CMU&OSU)__  November 2019 - Present
   * Ground Robot Autonomous Subsystem Leader
-  * Maintaining a full autonomous stack of ground robots, including local planners, terrain analysis, etc.
-  * Developed RRT-based road maps for global route planning $ \& $ recovery behavior for all abnormal cases
+  * Developed and Maintaining a full autonomous stack of ground robots, including local planners, terrain analysis, etc.
   * Integrated all submodules to the ground robot system and implemented high-level decision making with behavior-tree
+  * Developed RRT-based road maps for global route planning $ \& $ recovery behavior for all abnormal cases
 
 * __Open-Source Project for Autonomous Robots -  [cmu-exploration](http://www.cmu-exploration.com)__  Oct 20 - Present
   * Collaborated on development of several exploration algorithms, including DSVP, TARE, etc.
