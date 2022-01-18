@@ -51,6 +51,6 @@ __PROJECTS__
   * Integrated open-source navigation and trajectory planning algorithms into the robot system
 
 __Service__
-* Reviewer: Journal of Field Robotics
-* Reviewer: International Conference on Robotics and Automation (ICRA), 2021
+* Reviewer: IEEE Transactions on Robotics(T-RO), Journal of Field Robotics, IEEE Robotics and Automation Letters
+* Reviewer: International Conference on Robotics and Automation (ICRA), 2021, 2022
 * Reviewer: International Conference on Intelligent Robots and Systems (IROS), 2021
